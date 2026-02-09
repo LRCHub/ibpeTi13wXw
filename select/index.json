@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Good Goodbye",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-09T06:57:19.893268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Goodbye",
+      "artist": "Lianne La Havas",
+      "has_synced": true,
+      "path": "select/01_Good_Goodbye_Lianne_La_Havas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Goodbye",
+      "artist": "LINKIN PARK feat. Pusha T & Stormzy",
+      "has_synced": true,
+      "path": "select/02_Good_Goodbye_LINKIN_PARK_feat._Pusha_T_&_Stormzy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Goodbye",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_Good_Goodbye_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Goodbye",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Good_Goodbye_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Goodbye",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Good_Goodbye_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Goodbye (feat. Pusha T and Stormzy)",
+      "artist": "Linkin Park feat. Pusha T & Stormzy",
+      "has_synced": true,
+      "path": "select/06_Good_Goodbye_(feat._Pusha_T_and_Stormzy)_Linkin_Park_feat._Pusha_T_&_Stormzy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Goodbye (feat. Pusha T and Stormzy)",
+      "artist": "Linkin Park, Pusha T, Stormzy",
+      "has_synced": true,
+      "path": "select/07_Good_Goodbye_(feat._Pusha_T_and_Stormzy)_Linkin_Park,_Pusha_T,_Stormzy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Goodbye (One More Light Live)",
+      "artist": "Linkin Park feat. Stormzy",
+      "has_synced": true,
+      "path": "select/08_Good_Goodbye_(One_More_Light_Live)_Linkin_Park_feat._Stormzy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Goodbye",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Good_Goodbye_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Goodbye (feat. Pusha T & Stormzy)",
+      "artist": "LINKIN PARK feat. Pusha T & Stormzy",
+      "has_synced": true,
+      "path": "select/10_Good_Goodbye_(feat._Pusha_T_&_Stormzy)_LINKIN_PARK_feat._Pusha_T_&_Stormzy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Goodbye (feat. Pusha T and Stormzy) (instrumental)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Good_Goodbye_(feat._Pusha_T_and_Stormzy)_(instrumental)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Goodbye (feat. Stormzy) [One More Light Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Good_Goodbye_(feat._Stormzy)_[One_More_Light_Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Goodbye (feat. Stormzy) - One More Light Live",
+      "artist": "Linkin Park/Stormzy",
+      "has_synced": true,
+      "path": "select/13_Good_Goodbye_(feat._Stormzy)_-_One_More_Light_Live_Linkin_Park_Stormzy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Has There Ever Been a Good Goodbye",
+      "artist": ".38 Special",
+      "has_synced": false,
+      "path": "select/14_Has_There_Ever_Been_a_Good_Goodbye_.38_Special.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Goodbye (feat. Pusha T and Stormzy)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Good_Goodbye_(feat._Pusha_T_and_Stormzy)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ain't No Good Goodbye",
+      "artist": "Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/16_Ain't_No_Good_Goodbye_Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Goodbye",
+      "artist": "Linkin Park feat․ Pusha T & Stormzy",
+      "has_synced": true,
+      "path": "select/17_Good_Goodbye_Linkin_Park_feat._Pusha_T_&_Stormzy.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good Goodbye (ft. Pusha T & Stormzy)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/18_Good_Goodbye_(ft._Pusha_T_&_Stormzy)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Good Goodbye (feat. Pusha T & Stormzy)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/19_Good_Goodbye_(feat._Pusha_T_&_Stormzy)_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Goodbye",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Goodbye_ONE_OK_ROCK.txt"
+    }
+  ]
+}
